@@ -1,3 +1,3 @@
-module example.com/username/goserver
+module github.com/yasseresi/goserver
 
 go 1.22.5
